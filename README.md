@@ -69,7 +69,7 @@ project/
 |   └── Visualisasi_EDA.py
 |   └── Visualisasi_Perbandingan_3_Model.py
 │
-├── Laporan Proyek Machine Learning.pdf
+├── 234311052_Rian Cahyo_Laporan UAS Data Science.pdf
 ├── Checklist Submit Proyek.md
 ├── LICENSE
 ├── README.md
