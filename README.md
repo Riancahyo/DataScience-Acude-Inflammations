@@ -5,7 +5,7 @@ Klasifikasi Inflamasi Kandung Kemih Berdasarkan Gejala Klinis Menggunakan Machin
 - **Nama:** Rian Cahyo Anggoro
 - **NIM:** 234311052
 - **Repo:** https://github.com/Riancahyo/DataScience-Acude-Inflammations.git  
-- **Video:** 
+- **Video:** https://youtu.be/MLKLVwLY8HE 
 
 ---
 
